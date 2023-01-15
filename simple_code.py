@@ -1,4 +1,4 @@
-import numpy as py
+import numpy as np
 print("here is some very simple code")
 print("it imports numpy just for the sake of it")
 for i in range(100):
